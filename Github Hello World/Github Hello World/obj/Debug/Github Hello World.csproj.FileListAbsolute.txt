@@ -1,0 +1,6 @@
+c:\users\alexander.tufvesson\documents\visual studio 2015\Projects\Github Hello World\Github Hello World\bin\Debug\Github Hello World.exe.config
+c:\users\alexander.tufvesson\documents\visual studio 2015\Projects\Github Hello World\Github Hello World\bin\Debug\Github Hello World.exe
+c:\users\alexander.tufvesson\documents\visual studio 2015\Projects\Github Hello World\Github Hello World\bin\Debug\Github Hello World.pdb
+c:\users\alexander.tufvesson\documents\visual studio 2015\Projects\Github Hello World\Github Hello World\obj\Debug\Github Hello World.csprojResolveAssemblyReference.cache
+c:\users\alexander.tufvesson\documents\visual studio 2015\Projects\Github Hello World\Github Hello World\obj\Debug\Github Hello World.exe
+c:\users\alexander.tufvesson\documents\visual studio 2015\Projects\Github Hello World\Github Hello World\obj\Debug\Github Hello World.pdb
